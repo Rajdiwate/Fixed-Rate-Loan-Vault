@@ -1,0 +1,5 @@
+@openzeppelin/=node_modules/@openzeppelin/
+@openzeppelin/contracts-upgradeable=node_modules/@openzeppelin/contracts-upgradeable
+@venusprotocol/governance-contracts/=node_modules/@venusprotocol/governance-contracts/
+@venusprotocol/oracle/=node_modules/@venusprotocol/oracle/
+
